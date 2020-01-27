@@ -1,4 +1,4 @@
-package com.ryunen344.mdc_102
+package com.ryunen344.mdc_103
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
